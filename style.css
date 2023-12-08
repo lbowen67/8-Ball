@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+* {
+  text-align: center;
+}
+
+h1 {
+    font-size: 30pt;
+}
+
+h2, button, label {
+  font-size: 18pt;
+  font-family: arial;
+}
